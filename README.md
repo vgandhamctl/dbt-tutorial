@@ -1,8 +1,9 @@
-Welcome to your new dbt project!
+Welcome to your dbt project!
 
 ### Using the starter project
 
 Try running the following commands:
+- dbt seed ( loads initial data required for the project)
 - dbt run
 - dbt test
 
